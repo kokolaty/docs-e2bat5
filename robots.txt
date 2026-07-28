@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-u5vfg9.hsteamid.com/sitemap.xml
